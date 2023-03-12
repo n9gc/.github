@@ -1,6 +1,6 @@
 # 第⑨皇家娱乐会所
 
-![logo](./scpos.jpg)
+<img width="200" height="200" alt="McdJS" src="https://github.com/n9gc/.github/blob/main/profile/scpos.jpg?raw=true">
 
 > 欢迎浏览第⑨皇家娱乐会所在 GitHub 上的项目仓库。
 
