@@ -1,6 +1,6 @@
 # 第⑨皇家娱乐会所
 
-![logo](./scpos.png)
+![logo](./scpos.jpg)
 
 > 欢迎浏览第⑨皇家娱乐会所在 GitHub 上的项目仓库。
 
